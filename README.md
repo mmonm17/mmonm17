@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **machine learning projects!**
 
-- 👩‍💻 I'm mainly interested in research in the following fields: **NLP (LLMs, Generative AI), HCI, HCAI, Assistive Tech, EdTech**
+- 👩‍💻 I'm mainly interested in and exploring research in the following fields: **NLP (LLMs, Generative AI), HCI, HCAI, Assistive Tech, EdTech**
 
 - 📫 Reach me through email: **maria.monica.manlises@gmail.com**
 
