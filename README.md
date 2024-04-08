@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mon</h1>
 <h3 align="center">A machine learning and data science research enthusiast from De La Salle University - Manila 🏹 </h3>
+<img align="right" src="(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDBmbjU3bDBtanI5dGZoaXV2aDlkY2R4cGpjcDM3azF6bWtuMGVndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lkdIhnHHnFma6xvICt/giphy-downsized-large.gif)" width="400" height="400">
 
 - 🔭 I’m currently working on **an airline fuel prediction model under the Dr. Andrew L. Tan Data Science Institute**
 
