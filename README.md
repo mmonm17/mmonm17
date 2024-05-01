@@ -11,7 +11,7 @@
 
 - 📫 Reach me through email: **maria.monica.manlises@gmail.com**
 
-- 📄 Know about my experiences: [Resume (as of April 2024)](https://github.com/mmonm17/mmonm17/blob/1b1b89beddb9d1d12246d27b5f420e40e67e7194/Resume%20As%20of%20April%202024.pdf)
+- 📄 Know about my experiences: [Resume](https://github.com/mmonm17/mmonm17/blob/1b1b89beddb9d1d12246d27b5f420e40e67e7194/Resume%20As%20of%20April%202024.pdf) | [CV](https://github.com/mmonm17/mmonm17/blob/f996011bb205e999257c2be6c53e47ab4ee16783/Complete%20CV%20(April%202024).pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
